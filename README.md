@@ -1,4 +1,4 @@
-# Project Title
+# Multiroom Chat
 
 This is a multiroom chat app. Anyone that access the same server port will be able to chat with each other.
 
